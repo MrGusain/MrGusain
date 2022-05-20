@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MrGusain
 - 👀 I’m interested in computers,maths,physics and all.
-- 📫 How to reach me ,just mail me at bhanupratapsinghgusain1@gmail.com
 
 <!---
 MrGusain/MrGusain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
